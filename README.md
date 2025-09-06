@@ -16,10 +16,7 @@ A simple **Weather Application** built using **HTML, CSS, and JavaScript** that 
 - Error handling for invalid city names.
 
 ---
-
-## Demo
-
-![Weather App Screenshot](screenshot.png)  <!-- Add a screenshot if available -->
+ <!-- Add a screenshot if available -->
 
 ---
 
